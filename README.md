@@ -18,8 +18,8 @@ The dataset for this project comes from Kaggle - <a href="https://www.kaggle.com
 </p>
 
 ## Dashboard Features
+
 ### Total Income vs. Expenditure (Regional Overview)
-![IncomeVsExpenditureStackedBarChart.png](IncomeVsExpenditureStackedBarChart.png)
 <p align = "justify">
 • Visualization Type: Pie Chart
   
@@ -55,7 +55,7 @@ The dataset for this project comes from Kaggle - <a href="https://www.kaggle.com
 </p>
 
 ### Income vs. Food Expenditure Per Region
-![PhilippineExpenditureDashboard.png](PhilippineExpenditureDashboard.png)
+![IncomeVsExpenditureStackedBarChart.png](IncomeVsExpenditureStackedBarChart.png)
 <p align = "justify">
 • Visualization Type: Stacked Bar Chart
   
@@ -67,7 +67,7 @@ The dataset for this project comes from Kaggle - <a href="https://www.kaggle.com
 </p>
 
 ## Key Insights and Conclusions
-![Dashboard 1.png](Dashboard 1.png)
+![PhilippineExpenditureDashboard.png](PhilippineExpenditureDashboard.png)
 <p align = "justify">
 • Families in Mindanao face financial strain, with only 18.60% of income left after expenses, leading to limited savings capacity.
   
